@@ -1,0 +1,171 @@
+header{
+    background-color: white;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.pages{
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 40px;
+}
+
+#name{
+    font-family: 'Poppins', sans-serif;
+    font-size: 90px;
+    color: #89ACBD;
+    margin-top: 150px;
+    margin-left: 80px;
+    margin-right: 80px;
+    font-weight: 600;
+}
+
+#name:hover{
+    color:#F5E85B;
+}
+
+#description{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: 40px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+#AD{
+    font-family: 'Poppins', sans-serif;
+    font-size: 65px;
+    color: #D23574;
+}
+
+#countries{
+    font-family: 'Libre Caslon Text', sans-serif;
+    font-size: 65px;
+    color: #1F6C47;
+}
+
+img{
+    height: 600px;
+}
+
+#first-part{
+    margin: 50px 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#hello{
+    font-family: 'Poppins', sans-serif;
+    font-size: 45px;
+    color: #D23574;
+}
+
+.introduction{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: greenyellow;
+}
+
+#intro-content{
+    text-align: center;
+}
+
+#second-part{
+    text-align: center;
+}
+
+.section{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 45px;
+    color: greenyellow;
+    background-color: black;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    border-radius: 20px;
+    border: 6px solid white;
+    padding:10px;
+}
+
+.year{
+    color:#D23574;
+    font-family: 'Kanit', sans-serif;
+    font-size: 35px;
+    margin: 0;
+}
+
+.place{
+    color: #F5E85B;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    margin: 0;
+}
+
+.role{
+    font-family: 'Libre Caslon Text', sans-serif;
+    font-size: 20px;
+    color: white;
+    margin: 0;
+}
+
+#footprints{
+    display: none;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#skills{
+    display: none;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+#skills li{
+    color: #F5E85B;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    margin: 0;
+    text-align: left;
+}
+
+#class-info{
+    text-align: center;
+}
+
+#contact{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 45px;
+    color: greenyellow;
+    margin-top: 150px;
+}
+
+.contact-info{
+    color: #D23574;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    margin: 0;
+}
+
+.contact-link{
+    color: #F5E85B;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    margin: 0;
+}
+
+#creds{
+    color: white;
+    font-family: 'Kanit', sans-serif;
+    font-size: 20px;
+}
